@@ -13,6 +13,9 @@ import javax.swing.table.AbstractTableModel;
 /**
  *
  * @author KUSNANDI
+ * NIM : 10119024
+ * NAMA : KUSNANDI PIRMANSYAH
+ * KELAS : IF-1
  */
 public class TablePelangganModel extends AbstractTableModel {
     
