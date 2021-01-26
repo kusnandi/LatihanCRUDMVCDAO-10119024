@@ -14,6 +14,9 @@ import java.sql.SQLException;
 /**
  *
  * @author KUSNANDI
+ * NIM : 10119024
+ * NAMA : KUSNANDI PIRMANSYAH
+ * KELAS : IF-1
  */
 public class KingsBarbershopDatabase {
     
